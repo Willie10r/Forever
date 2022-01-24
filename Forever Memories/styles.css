@@ -1,9 +1,15 @@
 body {
-  background-color: rgb(102, 207, 241);
+  background-color: rgb(198, 222, 230);
+}
+
+#album {
+  margin-left: 6vw;
+  width: 85vw;
 }
 
 #pack {
   margin-top: 100px;
+  margin-bottom: 50px;
   margin-left: 1em;
   width: 98vw;
 }
@@ -14,4 +20,7 @@ tr {
 
 td {
   border-width: 5px;
+}
+#packInfo {
+  text-align: center;
 }
